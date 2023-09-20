@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    background-color: lightblue;
+    color: white;
+    padding: 10px;
+}
